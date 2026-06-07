@@ -10,13 +10,13 @@ import copy
 
 # ── Page Configuration ────────────────────────────────────────────
 st.set_page_config(
-   page_title="LLM Fine-Tuning Demo",
+   page_title="LLM Fine-Tuning Demo by Suhaani",
    page_icon="⚙️",
    layout="wide"
 )
 
 
-st.title("⚙️ LLM Fine-Tuning Demo")
+st.title("⚙️ LLM Fine-Tuning Demo by Suhaani")
 st.markdown(
    "Fine-tune a language model on your own custom training data — "
    "no coding required! Edit the pairs below, run fine-tuning, and test the results."
